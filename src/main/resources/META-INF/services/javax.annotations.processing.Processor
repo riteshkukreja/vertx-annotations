@@ -1,0 +1,3 @@
+com.github.riteshkukreja.generators.EventBusVerticalGenerator
+com.github.riteshkukreja.generators.HttpVerticalGenerator
+com.github.riteshkukreja.generators.MainVerticalGenerator
