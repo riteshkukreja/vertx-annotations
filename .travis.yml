@@ -1,2 +1,4 @@
 language: java
-deploy: true
+deploy:
+  provider: script
+  script: /bin/true
